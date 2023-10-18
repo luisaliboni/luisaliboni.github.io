@@ -1,1 +1,9 @@
+# Site settings
+title: Dr. Luisa Liboni
+author:
+  name: luisa liboni
+  email: luisa.liboni@gmail.com
+description: "Research site"
 
+# Build settings
+remote_theme: jekyll/minima
